@@ -73,6 +73,14 @@ const env = Env.SANDBOX; // Change to Env.PRODUCTION when going live
 
 ```
 
+### Step 3: Redirect urls
+
+```bash
+
+const redirectUrl = Update your redirect url
+
+```
+
 ## Conclusion
 
 This tutorial demonstrated how to build a PhonePe Node backend using Node.js and Express. The server handles payment initiation and callback responses, providing a foundation for integrating the PhonePe payment gateway. You can extend this project by adding features like database storage, advanced security, or additional endpoints.
